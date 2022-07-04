@@ -1,6 +1,6 @@
 <div align = "center">
 
-<h1><a href="https://2kabhishek.github.io/pyestate">pyestate</a></h1>
+<h1><a href="https://2kabhishek.github.io/pyestate">PyEstate</a></h1>
 
 <a href="https://github.com/2KAbhishek/pyestate/blob/main/LICENSE">
 <img alt="License" src="https://img.shields.io/github/license/2kabhishek/pyestate?style=plastic&color=white&label=License"> </a>
@@ -23,29 +23,23 @@
 <a href="https://github.com/2KAbhishek?tab=followers">
 <img alt="Followers" src="https://img.shields.io/github/followers/2kabhishek?color=222&style=plastic&label=Followers"> </a>
 
-<h3>Short sweet headline with 🎇🎉</h3>
-
-<figure>
-  <img src= "images/screenshot.png" alt="pyestate Demo" style="width:100%">
-  <br/>
-  <figcaption>pyestate screenshot</figcaption>
-</figure>
+<h3>Real estate price analysis 🏠💰</h3>
 
 </div>
 
 ## What is this
 
-pyestate is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+Analysis and visualization of real estate prices in Toronto, Canada using Python.
 
 ## Inspiration
 
-pyestate was inspired by `<reason/idea>`.
+Found the dataset interesting while exploring Kaggle.
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed the latest version of `<coding_language/dependency/requirement_1>`
+- You have installed the latest version of `python`, `jupyter notebook`, `pyviz`, `plotly` and `panel`
 
 ## Getting pyestate
 
@@ -54,51 +48,29 @@ To install pyestate, follow these steps:
 ```bash
 git clone https://github.com/2kabhishek/pyestate
 cd pyestate
-<install_command>
+jupyter-notebook .
 ```
 
 ## Using pyestate
 
-```bash
-USAGE:
-    command [FLAGS] [OPTIONS]
-
-FLAGS:
-    -h, --help              Prints help information.
-
-OPTIONS:
-    -o, --option <value>    Option description.
-    Options are: a, b. [default: a]
-
-Example:
-
-
-```
+The rental analysis is available in the `rental_analysis` notebook.
+The dashboard is available in the `dashboard` notebook.
 
 ## How it was built
 
-pyestate was built using `<tech/library>`
+pyestate was built using `Jupyter Notebook`
 
 ## Challenges faced
 
-While building pyestate the main challenges were `<issue/difficulty>`
+- Had some trouble with mapbox.
 
 ## What I learned
 
-While building pyestate I `<learned/accomplished>` about `<learning/accomplishment>`
+- Learned about `plotly`, `panel`, `pyviz` and `mapbox`.
 
 ## What's next
 
-Planning to add `<feature/module>`.
-
-### To-Do
-
-- [x] Setup repo
-- [ ] Think real hard
-- [ ] Start typing
-- [ ] Change me
-- [ ] Update README
-- [ ] Finish it
+Some sections are incomplete.
 
 Hit the ⭐ button if you found this useful.
 
